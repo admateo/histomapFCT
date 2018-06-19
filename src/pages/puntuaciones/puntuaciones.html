@@ -9,7 +9,7 @@
   <ion-list *ngIf="users != null">
     <ion-item *ngFor="let user of users | async">
       <img src="{{user.image}}"/> 
-      <span>{{user.name}} Puntuacion: {{user.puntuacion}}</span>
+      <span>{{user.name}} | Puntos: {{user.puntuacion}}</span>
     </ion-item>
   </ion-list>
 </ion-content>

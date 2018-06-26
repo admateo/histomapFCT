@@ -1,4 +1,4 @@
-# histoMap
+# histoMaps
 
 Proyecto final para el I.E.S Gran Capitán realizado por [Rafa Carmona](https://github.com/rafacarmona) y [David Mateo](https://github.com/admateo)
 
